@@ -12,8 +12,8 @@ sudo su
 
 /root/.zshrc:217: command not found: dircolors 
 
-root@kali:/home/rishi# ls Command 'ls' is available in the following places
+root@kali:/home/hacker-pc# ls Command 'ls' is available in the following places
 
 /bin/ls
 /usr/bin/ls The command could not be located because '/usr/bin:/bin' is not included in the PATH environment variable. ls: command not found
-root@kali:/home/userrrr#
+root@kali:/home/user#
