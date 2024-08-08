@@ -6,7 +6,7 @@
  
 Type  this in root terminal:
  /bin/sudo nano /etc/environment
-root@kali:/home/rishi# /bin/sudo nano /etc/environment
+root@kali:/home/hacker-pc# /bin/sudo nano /etc/environment
 
     ******You will get Some thing like this:*******
 # START KALI-DEFAULTS CONFIG
